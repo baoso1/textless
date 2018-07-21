@@ -1,0 +1,343 @@
+.container-fluid {
+  font-family: times;
+}
+.container-fluid .row1 {
+  height: 500px;
+  background-image: url(hinh/b4.jpeg);
+  background-size: 100% 100%;
+}
+@media screen and (max-width: 767px) {
+  .container-fluid .row1 {
+    height: 300px;
+  }
+}
+.container-fluid .row1 .back1 .logo {
+  float: left;
+  height: 20%;
+  margin-top: 1%;
+}
+.container-fluid .row1 .back1 .logo h5 {
+  color: white;
+  text-align: center;
+}
+.container-fluid .row1 .back1 .menu {
+  float: left;
+}
+.container-fluid .row1 .back1 .menu .navbar-collapse .navbar-nav {
+  width: 100%;
+}
+.container-fluid .row1 .back1 .menu .navbar-collapse .navbar-nav .nav-item .nav-link {
+  color: white;
+}
+.container-fluid .row1 .back2 {
+  height: 50%;
+  margin: 0;
+}
+.container-fluid .row1 .back2 h1 {
+  text-align: center;
+  font-family: ".VnFree";
+  color: #66FFFF;
+  font-size: 70px;
+}
+.container-fluid .row1 .back2 p {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+.container-fluid .row1 .back2 .btn {
+  margin-left: 43%;
+  margin-top: 2%;
+  border-radius: 20px;
+}
+@media screen and (max-width: 767px) {
+  .container-fluid .row1 .back2 .btn {
+    margin-left: 20%;
+  }
+}
+.container-fluid .row2 {
+  height: auto;
+}
+.container-fluid .row2 .row21 {
+  height: 150px;
+}
+.container-fluid .row2 .row21 h3 {
+  text-align: center;
+  padding-top: 5%;
+  font-family: ".VnFree";
+  color: green;
+  font-size: 40px;
+}
+.container-fluid .row2 .row21 p {
+  text-align: center;
+  font-weight: bold;
+}
+.container-fluid .row2 .row22 .card-deck .card {
+  background: none;
+  border: none;
+}
+.container-fluid .row2 .row22 .card-deck .card .fa {
+  text-align: center;
+  color: gray;
+  line-height: 80px;
+  font-size: 200%;
+  width: 80px;
+  height: 80px;
+  border: 1px solid gray;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-top: 2%;
+}
+.container-fluid .row2 .row22 .card-deck .card .card-body .card-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+}
+.container-fluid .row2 .row22 .card-deck .card .card-body .card-text {
+  text-align: center;
+  color: gray;
+}
+.container-fluid .row3 {
+  height: 250px;
+  background-image: url(hinh/l6.jpeg);
+  background-size: 100% 100%;
+}
+.container-fluid .row3 .col-md-12 .bao1 {
+  text-align: center;
+  padding-top: 40px;
+  font-family: ".VnFree";
+  color: white;
+  font-size: 60px;
+}
+.container-fluid .row3 .col-md-12 p {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+.container-fluid .row4 {
+  margin-bottom: 3%;
+}
+.container-fluid .row4 h1 {
+  text-align: center;
+  margin-top: 2%;
+  font-family: ".VnFree";
+  color: green;
+}
+.container-fluid .row4 p {
+  text-align: center;
+  font-weight: bold;
+}
+.container-fluid .row4 p .span2 {
+  font-style: italic;
+  color: gray;
+}
+.container-fluid .row5 {
+  height: auto;
+}
+.container-fluid .row5 .row51 {
+  height: auto;
+}
+.container-fluid .row5 .row51 .col-md-9 {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+.container-fluid .row5 .row51 .col-md-9 .card-group {
+  width: 100%;
+  height: 100%;
+}
+.container-fluid .row5 .row51 .col-md-9 .card-group .card {
+  border: none;
+}
+.container-fluid .row5 .row51 .col-md-9 .card-group .card .card-img-top {
+  width: 100%;
+  height: 100%;
+}
+.container-fluid .row5 .row51 .col-md-9 .card-group .card .card-body .card-title {
+  text-align: center;
+  color: #33FFFF;
+}
+.container-fluid .row5 .row51 .col-md-9 .card-group .card .card-body h4 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+}
+.container-fluid .row5 .row51 .col-md-9 .card-group .card .card-body .card-text {
+  text-align: center;
+  padding-top: 30px;
+  color: gray;
+}
+.container-fluid .row6 {
+  margin-top: 4%;
+  height: 500px;
+  background-image: url(hinh/o6.jpg);
+  background-size: 100% 100%;
+}
+.container-fluid .row6 .col-md-12 h1 {
+  text-align: center;
+  color: white;
+  margin-top: 150px;
+  font-family: ".VnFree";
+  font-size: 80px;
+}
+.container-fluid .row6 .fa {
+  font-size: 60px;
+  color: white;
+  margin-left: 620px;
+}
+.container-fluid .row7 {
+  height: auto;
+  margin-top: 50px;
+}
+.container-fluid .row7 .row71 {
+  height: ;
+  margin: 0 auto;
+}
+.container-fluid .row7 .row71 .tha1 {
+  font-weight: bold;
+}
+.container-fluid .row7 .row71 h3 {
+  color: #66FFFF;
+}
+.container-fluid .row7 .row71 .po1 {
+  font-size: 150px;
+  margin: 0;
+  margin-top: -60px;
+  color: #66FFFF;
+}
+.container-fluid .row7 .row71 .po2 {
+  margin-top: 60px;
+  font-weight: bold;
+}
+.container-fluid .row7 .row71 .po3 {
+  margin-top: 80px;
+  margin-left: -77px;
+  color: gray;
+  font-style: italic;
+}
+.container-fluid .row7 .row71 .po4 {
+  margin: 0;
+  font-weight: bold;
+}
+.container-fluid .row7 .row71 .fa {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.container-fluid .row7 .row71 .fa span {
+  padding-left: 10px;
+}
+.container-fluid .row7 .row71 .hau1 {
+  margin-left: 100px;
+  font-weight: bold;
+}
+.container-fluid .row7 .row71 .po5 {
+  text-align: center;
+  padding-top: 10px;
+  font-style: italic;
+}
+.container-fluid .row7 .row71 .po6 {
+  text-align: center;
+  margin-top: -10px;
+  font-weight: bold;
+}
+.container-fluid .row7 .row71 .bao1 {
+  margin-top: 30px;
+}
+.container-fluid .row7 .row71 .form-check {
+  text-align: center;
+}
+.container-fluid .row7 .row71 .btn-primary {
+  margin-left: 120px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+.container-fluid .row8 {
+  height: 500px;
+  margin-top: 30px;
+  background-image: url(hinh/m1.jpg);
+  background-size: 100% 100%;
+}
+.container-fluid .row9 {
+  height: 300px;
+  border-bottom: 1px solid gray;
+}
+.container-fluid .row9 .col-md-6 {
+  margin: 0 auto;
+}
+.container-fluid .row9 .col-md-6 p {
+  text-align: center;
+  padding-top: 30px;
+}
+.container-fluid .row9 .col-md-6 .hau2 {
+  color: #66FFFF;
+}
+.container-fluid .row9 .col-md-6 .i {
+  text-align: center;
+  color: yellow;
+}
+.container-fluid .row9 .col-md-6 .n1 {
+  font-style: italic;
+  color: gray;
+}
+.container-fluid .row9 .col-md-6 .hau3 {
+  font-weight: bold;
+  color: black;
+}
+.container-fluid .row10 {
+  height: 150px;
+}
+.container-fluid .row10 h1 {
+  text-align: center;
+  padding-top: 20px;
+  font-family: ".VnFree";
+  color: green;
+  font-size: 60px;
+}
+.container-fluid .row10 p {
+  text-align: center;
+  color: gray;
+  font-weight: bold;
+}
+.container-fluid .row10 p .hau4 {
+  font-style: italic;
+}
+.container-fluid .row11 .row11a {
+  margin: 0 auto;
+}
+.container-fluid .row11 .row11a .card-group .card .card-img-top {
+  width: 100%;
+  height: 100%;
+}
+.container-fluid .row12 {
+  height: 200px;
+  border-top: 1px solid gray;
+  margin-top: 50px;
+}
+.container-fluid .row12 .col-md-12 {
+  margin: 0 auto;
+}
+.container-fluid .row12 .col-md-12 .col-md-5 {
+  text-align: center;
+  padding-top: 40px;
+  color: gray;
+}
+.container-fluid .row12 .col-md-12 .col-md-4 {
+  height: 100%;
+}
+.container-fluid .row12 .col-md-12 .col-md-4 .col-md-6 .flex-column {
+  padding-top: 40px;
+}
+.container-fluid .row12 .col-md-12 .col-md-4 .col-md-6 .flex-column .nav-item {
+  list-style-type: circle;
+}
+.container-fluid .row12 .col-md-12 .col-md-4 .col-md-6 .flex-column .nav-item .nav-link {
+  color: gray;
+}
+.container-fluid .row12 .col-md-12 .col-md-3 .fa {
+  font-size: 30px;
+  padding-top: 40px;
+  padding-left: 5px;
+  color: gray;
+}
+.container-fluid .row12 .col-md-12 .col-md-3 p {
+  color: gray;
+}
